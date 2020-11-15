@@ -3,6 +3,7 @@
 서론
 add master
 add part1
+add 철수
 
 본론 1
 12341234

@@ -2,7 +2,7 @@ title: dream car project
 
 외장 개발
  멋지게 완료
-
+ 멋지게 수정
 엔진 개발
 
 인테리어

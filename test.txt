@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello form project02
+=======
+hi form my-repo
+
+hello from my-repo
+>>>>>>> 9644bd9862f4b21e00fff7b4b34ad4c3938f94a8
